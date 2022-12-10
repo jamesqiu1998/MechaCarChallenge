@@ -13,7 +13,7 @@
 
 <img width="565" alt="image" src="https://user-images.githubusercontent.com/104419959/206877557-8619ac51-1792-41c5-a29b-ce457d3934f3.png">
 
-     * In the above statistics, we can observe that only **Vehicle_Length** and **Ground_Clearance** provides a non-random amount of variance to the mpg claues in the dataset. 
+**ANS** : In the above statistics, we can observe that only **Vehicle_Length** and **Ground_Clearance** provides a non-random amount of variance to the mpg claues in the dataset. 
  
 - Is the slope of the linear model considered to be zero? Why or why not?
 
