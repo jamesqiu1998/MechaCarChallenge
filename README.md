@@ -9,7 +9,7 @@
 
 
 ## Linear Regression to Predict MPG
-- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+**Q** Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
 <img width="565" alt="image" src="https://user-images.githubusercontent.com/104419959/206877557-8619ac51-1792-41c5-a29b-ce457d3934f3.png">
 
