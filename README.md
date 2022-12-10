@@ -20,3 +20,12 @@
 
 **Q.** Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?<br>
 **ANS :** As the r-value fo the data set is above 0.7, we can definitely use this linear model to predict the MPG of the MechaCar prototype. 
+
+## Summary Statistics on Suspension Coils
+Total Summary:
+<img width="372" alt="image" src="https://user-images.githubusercontent.com/104419959/206877942-3d5170ef-e86e-431a-a945-2f730a59270f.png">
+
+Lot Summary:
+<img width="545" alt="image" src="https://user-images.githubusercontent.com/104419959/206877948-73194c57-2f5b-4409-a2a6-b0bb969d20de.png">
+
+- The design specification indicates tht the variance fo the suspension coils must not exceed 100 pounds per square inch. Observing from the data frame above, we can come to a conclusion that lot 3 exceeded the restriction, while lot 1 and lot 2 are within acceptable range. 
