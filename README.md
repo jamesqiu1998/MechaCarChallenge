@@ -50,10 +50,10 @@ Lot Summary:
 **Ans:** Some statistical test I would use to test my hypothesis is using Analysis of Variance to visualize the connection between fuel consumption and consumer group. <br>
 **Q.** What data is needed to run the statistical test?<br>
 **Ans:** There are a lot of data required to achieve this result. From the vehicle's perspective, we will require the:<br>
- - Hourse power for each motor vehicle as it could affect the fuel usage of a car<br>
- - Weight of the vehicle<br>
- - Aerodynamics of the vehicle<br>
- - Recorded fuel consumption of the vehicel. <br>
+    - Hourse power for each motor vehicle as it could affect the fuel usage of a car<br>
+    - Weight of the vehicle<br>
+     - Aerodynamics of the vehicle<br>
+    - Recorded fuel consumption of the vehicel. <br>
 For Drivers, we will have to obtain data such as:<br>
-- Number of user for different car selection<br>
-- Habits when driving that might affect fuel consumption. 
+    - Number of user for different car selection<br>
+    - Habits when driving that might affect fuel consumption. 
