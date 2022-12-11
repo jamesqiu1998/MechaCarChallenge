@@ -29,3 +29,31 @@ Lot Summary:
 <img width="545" alt="image" src="https://user-images.githubusercontent.com/104419959/206877948-73194c57-2f5b-4409-a2a6-b0bb969d20de.png">
 
 - The design specification indicates tht the variance fo the suspension coils must not exceed 100 pounds per square inch. Observing from the data frame above, we can come to a conclusion that lot 3 exceeded the restriction, while lot 1 and lot 2 are within acceptable range. 
+
+## T-Tests on Suspension Coils
+- T test based on mu level of 1500:
+- 
+<img width="423" alt="image" src="https://user-images.githubusercontent.com/104419959/206883639-0c1523eb-400e-4802-8606-f03a56974cd0.png">
+
+-T.test result
+
+<img width="423" alt="image" src="https://user-images.githubusercontent.com/104419959/206883560-112dd1a3-4833-4fc6-a2cb-8c477495a70e.png">
+
+- From observation of the T-test, we can conclude that as we progress through the different lot number, there are a siginificant decrease in the p-value, with lot 3 being lower than our significance level. 
+
+## Study Design: MechaCar vs Competition
+**Q.** What metric or metrics are you going to test?<br>
+**Ans:** As we further develope more advance technologies, the needs of our audience will increase over time. For consumers, they would care most about getting the most out of the amount they spend on a car. Few considerations and metrics that I would recommand and test is the city and highway fuel efficiency and maintenance cost. As fuel price begins to skyrocket, a fuel efficient vehicle would best attract more consumer. <br>
+**Q.** What is the null hypothesis or alternative hypothesis?<br>
+**Ans:** The null hypothesis would be a vehicle with fuel consumption not higher than other competition, will significantly attract more consumers. <br>
+**Q.** What statistical test would you use to test the hypothesis? And why?<br>
+**Ans:** Some statistical test I would use to test my hypothesis is using Analysis of Variance to visualize the connection between fuel consumption and consumer group. <br>
+**Q.** What data is needed to run the statistical test?<br>
+**Ans:** There are a lot of data required to achieve this result. From the vehicle's perspective, we will require the:<br>
+ - Hourse power for each motor vehicle as it could affect the fuel usage of a car<br>
+ - Weight of the vehicle<br>
+ - Aerodynamics of the vehicle<br>
+ - Recorded fuel consumption of the vehicel. <br>
+For Drivers, we will have to obtain data such as:<br>
+- Number of user for different car selection<br>
+- Habits when driving that might affect fuel consumption. 
